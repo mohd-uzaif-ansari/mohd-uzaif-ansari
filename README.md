@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-uzaif-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-uzaif-ansari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ozaifkie" target="blank"><img src="https://img.shields.io/twitter/follow/ozaifkie?logo=twitter&style=for-the-badge" alt="ozaifkie" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/ozaifkie" target="blank"><img src="https://img.shields.io/twitter/follow/ozaifkie?logo=twitter&style=for-the-badge" alt="ozaifkie" /></a> </p>
 
 - 📫 How to reach me **mohammaduzaif0111@gmailcom**
 
